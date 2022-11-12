@@ -1,4 +1,4 @@
-# jokes-web-app
+# Jokes Web App
 This is a simple web app for creating, reading, updating, and deleting (CRUD) jokes.
 
 This project was started on November 7, 2022 and finished on November 12, 2022.
